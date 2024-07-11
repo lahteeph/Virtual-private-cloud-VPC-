@@ -4,7 +4,7 @@ Designing and setting up a Virtual Private Cloud (VPC) with both public and priv
 Implement routing, security groups, and network access control lists (NACLs) to ensure proper communication and security within the VPC. Work in the AWS EU-West-1 (Ireland) region.
 
 # VPC Architecture.
-![Screenshot from 2024-07-07 10-48-33](https://github.com/lahteeph/Virtual-private-cloud-VPC-/assets/167543895/fdca40f0-2dc0-4674-b974-164fd7e42b54)
+![WhatsApp Image 2024-07-11 at 9 58 19 AM](https://github.com/lahteeph/Virtual-private-cloud-VPC-/assets/167543895/1d68390c-2f7e-45cd-92e3-235682753751)
 
 # Steps in Achieving the above objectives.
 
